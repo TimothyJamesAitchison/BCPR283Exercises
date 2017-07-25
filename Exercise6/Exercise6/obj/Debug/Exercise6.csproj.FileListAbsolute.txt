@@ -1,0 +1,5 @@
+\\adfsstud2\r-u\tia0067\documents\visual studio 2015\Projects\Exercise6\Exercise6\bin\Debug\Exercise6.exe.config
+\\adfsstud2\r-u\tia0067\documents\visual studio 2015\Projects\Exercise6\Exercise6\bin\Debug\Exercise6.exe
+\\adfsstud2\r-u\tia0067\documents\visual studio 2015\Projects\Exercise6\Exercise6\bin\Debug\Exercise6.pdb
+\\adfsstud2\r-u\tia0067\documents\visual studio 2015\Projects\Exercise6\Exercise6\obj\Debug\Exercise6.exe
+\\adfsstud2\r-u\tia0067\documents\visual studio 2015\Projects\Exercise6\Exercise6\obj\Debug\Exercise6.pdb

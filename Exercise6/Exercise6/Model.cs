@@ -4,23 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercise4
+namespace Exercise6
 {
     class Model
     {
         public int GetSum(int max)
         {
             int sum = 0;
-            for(int i = 1; i <= 100; i++)
+            int count = 1;
+            do
             {
-                sum += i;
-            }
+                sum += count;
+                count++;
+            } while (count <= max);
             return sum;
         }
 
         public float GetAverage(int max)
         {
-            return (float) this.GetSum(max) / max;
+            return (float)this.GetSum(max) / max;
         }
     }
 }
