@@ -1,0 +1,6 @@
+\\adfsstud2\r-u\tia0067\documents\visual studio 2015\Projects\Exercise4\Exercise4\bin\Debug\Exercise4.exe.config
+\\adfsstud2\r-u\tia0067\documents\visual studio 2015\Projects\Exercise4\Exercise4\bin\Debug\Exercise4.exe
+\\adfsstud2\r-u\tia0067\documents\visual studio 2015\Projects\Exercise4\Exercise4\bin\Debug\Exercise4.pdb
+\\adfsstud2\r-u\tia0067\documents\visual studio 2015\Projects\Exercise4\Exercise4\obj\Debug\Exercise4.csprojResolveAssemblyReference.cache
+\\adfsstud2\r-u\tia0067\documents\visual studio 2015\Projects\Exercise4\Exercise4\obj\Debug\Exercise4.exe
+\\adfsstud2\r-u\tia0067\documents\visual studio 2015\Projects\Exercise4\Exercise4\obj\Debug\Exercise4.pdb
