@@ -1,0 +1,6 @@
+\\adfsstud2\r-u\tia0067\documents\visual studio 2015\Projects\Exercise11\Exercise11\bin\Debug\Exercise11.exe.config
+\\ADFSSTUD2\r-u\tia0067\Documents\Visual Studio 2015\Projects\Exercise11\Exercise11\bin\Debug\Exercise11.exe
+\\ADFSSTUD2\r-u\tia0067\Documents\Visual Studio 2015\Projects\Exercise11\Exercise11\bin\Debug\Exercise11.pdb
+\\ADFSSTUD2\r-u\tia0067\Documents\Visual Studio 2015\Projects\Exercise11\Exercise11\obj\Debug\Exercise11.csprojResolveAssemblyReference.cache
+\\ADFSSTUD2\r-u\tia0067\Documents\Visual Studio 2015\Projects\Exercise11\Exercise11\obj\Debug\Exercise11.exe
+\\ADFSSTUD2\r-u\tia0067\Documents\Visual Studio 2015\Projects\Exercise11\Exercise11\obj\Debug\Exercise11.pdb
